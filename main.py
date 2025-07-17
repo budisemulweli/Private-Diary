@@ -9,7 +9,7 @@ from Add_entry import Add_entry
 from Create_account import Create
 from Diary_menu import Diary_menu
 from Login import Login
-from paginate import paginate
+from Paginate import Paginate
 from Userchoice import Userchoice
 from Hashing import Hashing
 
